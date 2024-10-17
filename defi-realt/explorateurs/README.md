@@ -6,7 +6,7 @@ description: pour en savoir plus sur la blockchain..
 
 Vous pouvez vous servir des explorateurs de chain, pour en savoir plus sur : &#x20;
 
-* un **wallet**, le votre ou un autre .. (transactions, solde, liste de tokens,..),
+* un **wallet**, le vôtre ou un autre .. (transactions, solde, liste de tokens,..),
 *   un **smart-contrat** :&#x20;
 
     * par exemple, pour [ajouter un jeton sur Metamask](../../portefeuille/metamask/ajout-dun-token.md) : trouver l'adresse de l'USDC sur gnosis :&#x20;
